@@ -5,23 +5,45 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 
 # EQUIPMENTS REQUIRED
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/b4e8bb20-c437-4287-a5fc-8477fea90dfb" />
+
+---
+
 # IP ASSIGNMENT
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/842ac7be-fc84-498f-bc96-ba184b2d0385" />
+
+---
+
 
 # NETWORK DIAGRAM
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/ba551144-6a3e-4adf-859d-1370cdd46f83" />
+
+---
 
 # PROCEDURE
-STEP 1: Open a Packet Tracer Software.
-STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool bar and drop it in work area.
-STEP 3: Connect all the PC Terminals and Routers through Switches as shown in the network diagram using CAT 6 Patch cables.
-STEP 4: Configure IP address and Gateway in all PC Terminals.
-STEP 5: Configure Delhi router IP address, save configuration and restart Delhi router. STEP 6: Configure Chennai router IP address, save configuration and restart Chennai router. STEP 7: Check the connectivity between the computers in network.
-STEP 8: Configure OSPF in Delhi router, Save configuration and restart Delhi router.
-STEP 9: Configure OSPF in Chennai router, Save configuration and restart Chennai router.
-STEP 10: Verify the connectivity between PC Terminals in different networks using Ping command.
-STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
+
+- STEP 1: Open a Packet Tracer Software.
+- STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool bar and drop it in work area.
+- STEP 3: Connect all the PC Terminals and Routers through Switches as shown in the network diagram using CAT 6 Patch cables.
+- STEP 4: Configure IP address and Gateway in all PC Terminals.
+- STEP 5: Configure Delhi router IP address, save configuration and restart Delhi router. STEP 6: Configure Chennai router IP address, save configuration and restart
+Chennai router.
+- STEP 7: Check the connectivity between the computers in network.
+- STEP 8: Configure OSPF in Delhi router, Save configuration and restart Delhi router.
+- STEP 9: Configure OSPF in Chennai router, Save configuration and restart Chennai router.
+- STEP 10: Verify the connectivity between PC Terminals in different networks using Ping command.
+- STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5e36be10-15e4-44e5-8239-74078c6e7cea" />
+
+---
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/38ebec33-cae1-48dd-b81f-16691ca365e0" />
+
+---
 
 
 
